@@ -4,8 +4,22 @@ h1{
 }
 body{
     font-family: fantasy;
+    color: #7dc410;
+    font-size: 25px;
 }
-.image{
-    height: 50px;
-    width: 50px;
+img{
+    height: 350px;
+    width: 350px;
+}
+.tropical{
+    color: blueviolet;
+}
+.popular{
+    color: brown;
+}
+html{
+    background-image: url(https://images.pexels.com/photos/861339/pexels-photo-861339.jpeg?cs=srgb&dl=landscape-photography-of-wild-trees-over-mountain-861339.jpg&fm=jpg );
+}
+a:hover{
+    color: mediumvioletred;
 }
